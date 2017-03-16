@@ -1,4 +1,4 @@
-### Accelerate HK Repository
+### Accelerate HK Github Pages
 
-Please submit your preps assignment in the folder /**your-project-name**.
-Your about-me site can be viewed at the url https://**your-username**.github.io/your-project-name.
+This page is only going to redirect you back to [Accelerate HK](http://www.acceleratedhk.com) official Site
+
